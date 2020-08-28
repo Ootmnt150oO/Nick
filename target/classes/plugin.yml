@@ -1,0 +1,8 @@
+name: Nick
+author: tmnt150
+version: 1.0
+main: tmnt150.Motd.Main
+commands:
+  nick:
+    usage: /nick
+    description: 匿名
